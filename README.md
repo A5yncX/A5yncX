@@ -7,7 +7,6 @@
 - I like cats very much.
 - I'm keen on something new.
 
-You can see my [🐈homepage](https://asyncx.top) / [✏️blog](https://blog.asyncx.top) / [📖library](https://lib.asyncx.top)  and you can see [📖what books I read.](https://weread.asyncx.top)
-
+You can see my [🐈homepage](https://asyncx.top) / [✏️blog](https://blog.asyncx.top) / [📖library](https://lib.asyncx.top).
 
 
